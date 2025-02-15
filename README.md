@@ -5,16 +5,16 @@
 
 Features
 
-Text-to-Image Conversion using Stable Diffusion
-Image-to-3D Model Generation using open-source AI models
-Customizable Prompts for high-quality 3D outputs
-Supports CUDA & CPU for faster rendering
+1. Text-to-Image Conversion using Stable Diffusion
+2. Image-to-3D Model Generation using open-source AI models
+3. Customizable Prompts for high-quality 3D outputs
+4. Supports CUDA & CPU for faster rendering
 
 Recommended Prompts
 For better 3D generation, use:
-"High-quality 3D model of a fantasy castle"
-"3D-rendered futuristic spacecraft, ultra-detailed"
-"Voxel-style 3D character, game asset ready"
+1. High-quality 3D model of a fantasy castle
+2. 3D-rendered futuristic spacecraft, ultra-detailed
+3. Voxel-style 3D character, game asset ready
 
 Troubleshooting
 
