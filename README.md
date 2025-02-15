@@ -1,7 +1,7 @@
 # Integrating-Stable-Diffusion-with-3D-Model-Generation-Pipelines
 
-# model_id = "CompVis/stable-diffusion-v1-4"
-# model_id = "stabilityai/stable-diffusion-2-1"
+#model_id = "CompVis/stable-diffusion-v1-4"
+#model_id = "stabilityai/stable-diffusion-2-1"
 
 Features
 
