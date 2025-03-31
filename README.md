@@ -31,4 +31,4 @@ Feel free to submit pull requests for enhancements! Fork the repo and make a PR 
 
 References
 https://stability.ai/stable-3d
-https://huggingface.co/tencent/Hunyuan3D-2
+##https://huggingface.co/tencent/Hunyuan3D-2
